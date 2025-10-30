@@ -75,7 +75,7 @@ Execute the Python script from your terminal:
 
 ```Bash
 
-python story_generator.py
+python storygenerator.py
 ```
 The Gemini Story Generator window will open.
 
